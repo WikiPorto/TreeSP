@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alexandre Porto da Silva"
+		]
+	},
+	"treesp": "TreeSP (TreeSubPages)",
+	"treesp-desc": "Adds the <code>#treesp</code> function to the parser. Generates a list of sub-pages, directly from the database, and internally executes the <code>#tree</code> function from the TreeAndMenu extension."
+}
